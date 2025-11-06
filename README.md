@@ -7,7 +7,7 @@
 
 ### Espacios Privados del Huésped:
 - Habitación asignada
-- Baño privado (sin cerradura)
+- Baño privado (sin llave)
 
 ### Espacios Compartidos (Uso con Cuidado):
 - Sala
